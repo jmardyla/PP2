@@ -1,0 +1,3 @@
+/tmp/tmpmokdg2j6/student/zaj11PtrCStringVector/PtrCStringVector.cpp:151:0: warning: The function 'reserve' is never used. [unusedFunction]
+void PtrCStringVector::reserve(size_t new_capacity)
+^

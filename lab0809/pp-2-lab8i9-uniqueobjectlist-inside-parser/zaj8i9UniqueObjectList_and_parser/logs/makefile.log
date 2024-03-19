@@ -1,0 +1,39 @@
+[  8%] Building CXX object unitTests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
+[ 16%] Linking CXX static library ../../../lib/libgtest.a
+[ 16%] Built target gtest
+[ 25%] Building CXX object unitTests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o
+[ 33%] Linking CXX static library ../../../lib/libgtest_main.a
+[ 33%] Built target gtest_main
+[ 58%] Building CXX object unitTests/CMakeFiles/unit_tests.dir/__/object.cpp.o
+[ 66%] Building CXX object unitTests/CMakeFiles/unit_tests.dir/objectUniqueListTest.cpp.o
+[ 66%] Building CXX object unitTests/CMakeFiles/unit_tests.dir/__/doubleObject.cpp.o
+[ 66%] Building CXX object unitTests/CMakeFiles/unit_tests.dir/__/complexobject.cpp.o
+[ 75%] Building CXX object unitTests/CMakeFiles/unit_tests.dir/__/intObject.cpp.o
+[ 83%] Building CXX object unitTests/CMakeFiles/unit_tests.dir/__/objectlist.cpp.o
+[ 91%] Building CXX object unitTests/CMakeFiles/unit_tests.dir/__/stringObject.cpp.o
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/objectlist.cpp: In member function ‘std::string ObjectList::sum(std::string)’:
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/objectlist.cpp:289:1: warning: control reaches end of non-void function [-Wreturn-type]
+  289 | }
+      | ^
+[100%] Linking CXX executable ../bin/unit_tests
+[100%] Built target unit_tests
+Consolidate compiler generated dependencies of target gtest
+[ 14%] Building CXX object CMakeFiles/zad8CommandsParser.dir/doubleObject.cpp.o
+[ 21%] Building CXX object CMakeFiles/zad8CommandsParser.dir/intObject.cpp.o
+[ 28%] Building CXX object CMakeFiles/zad8CommandsParser.dir/objectlist.cpp.o
+[ 28%] Building CXX object CMakeFiles/zad8CommandsParser.dir/complexobject.cpp.o
+[ 42%] Building CXX object CMakeFiles/zad8CommandsParser.dir/object.cpp.o
+[ 42%] Building CXX object CMakeFiles/zad8CommandsParser.dir/main.cpp.o
+[ 50%] Building CXX object CMakeFiles/zad8CommandsParser.dir/stringObject.cpp.o
+[ 64%] Built target gtest
+Consolidate compiler generated dependencies of target gtest_main
+[ 78%] Built target gtest_main
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/objectlist.cpp: In member function ‘std::string ObjectList::sum(std::string)’:
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/objectlist.cpp:289:1: warning: control reaches end of non-void function [-Wreturn-type]
+  289 | }
+      | ^
+[ 85%] Linking CXX executable bin/zad8CommandsParser
+[ 85%] Built target zad8CommandsParser
+[ 92%] Building CXX object systemTests/CMakeFiles/system_tests.dir/executableTests.cpp.o
+[100%] Linking CXX executable ../bin/system_tests
+[100%] Built target system_tests

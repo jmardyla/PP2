@@ -1,0 +1,41 @@
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/complexobject.h:45:31: warning: Variable 'e' can be declared as reference to const [constVariable]
+        catch (std::bad_cast& e) {
+                              ^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/doubleObject.cpp:12:27: warning: Variable 'e' can be declared as reference to const [constVariable]
+    catch (std::bad_cast& e) {
+                          ^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/intObject.cpp:15:27: warning: Variable 'e' can be declared as reference to const [constVariable]
+    catch (std::bad_cast& e) {
+                          ^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/main.cpp:65:39: warning: Variable 'e' can be declared as reference to const [constVariable]
+            catch (std::domain_error& e) {}
+                                      ^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/objectlist.cpp:232:41: warning: Function parameter 'type' should be passed by const reference. [passedByValue]
+std::string ObjectList::sum(std::string type) {
+                                        ^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/stringObject.cpp:15:5: warning: Variable 'text_' is assigned in constructor body. Consider performing initialization in initialization list. [useInitializationList]
+    text_ = objectToCopy.text_;
+    ^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/stringObject.cpp:11:40: warning: Function parameter 'text' should be passed by const reference. [passedByValue]
+StringObject::StringObject(std::string text): text_(text) {
+                                       ^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/stringObject.cpp:23:27: warning: Variable 'e' can be declared as reference to const [constVariable]
+    catch (std::bad_cast& e) {
+                          ^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/objectlist.cpp:79:0: warning: The function 'empty' is never used. [unusedFunction]
+bool ObjectList::empty() const {
+^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/objectlist.cpp:84:0: warning: The function 'size' is never used. [unusedFunction]
+size_t ObjectList::size() const {
+^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/objectlist.cpp:100:0: warning: The function 'pop_front' is never used. [unusedFunction]
+void ObjectList::pop_front() {
+^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/objectlist.cpp:121:0: warning: The function 'reverse' is never used. [unusedFunction]
+void ObjectList::reverse() noexcept {
+^
+/tmp/tmp8sod9cts/student/zaj8i9UniqueObjectList_and_parser/objectlist.cpp:208:0: warning: The function 'erase' is never used. [unusedFunction]
+void ObjectList::erase(iterator position) {
+^
+nofile:0:0: warning: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+

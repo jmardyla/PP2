@@ -1,0 +1,57 @@
+[
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\lab2Systems_forStudents.dir\\linux.cpp.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\linux.cpp",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\linux.cpp"
+},
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\lab2Systems_forStudents.dir\\main.cpp.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\main.cpp",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\main.cpp"
+},
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\lab2Systems_forStudents.dir\\windows.cpp.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\windows.cpp",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\windows.cpp"
+},
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest/include -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\linuxTests.cpp.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\linuxTests.cpp",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\linuxTests.cpp"
+},
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest/include -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\windowsTests.cpp.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\windowsTests.cpp",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\windowsTests.cpp"
+},
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest/include -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\__\\linux.cpp.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\linux.cpp",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\linux.cpp"
+},
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest/include -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\__\\windows.cpp.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\windows.cpp",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\windows.cpp"
+},
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googlemock/include -IC:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googlemock -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest/include -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\lib\\googlemock\\src\\gmock-all.cc",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\lib\\googlemock\\src\\gmock-all.cc"
+},
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googlemock/include -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googlemock -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest/include -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\lib\\googlemock\\src\\gmock_main.cc",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\lib\\googlemock\\src\\gmock_main.cc"
+},
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest/include -IC:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\lib\\googletest\\src\\gtest-all.cc",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\lib\\googletest\\src\\gtest-all.cc"
+},
+{
+  "directory": "C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest/include -isystem C:/Users/janek/CLionProjects/pp2-lab2-systems/lab2systems/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\lib\\googletest\\src\\gtest_main.cc",
+  "file": "C:\\Users\\janek\\CLionProjects\\pp2-lab2-systems\\lab2systems\\tests\\lib\\googletest\\src\\gtest_main.cc"
+}
+]

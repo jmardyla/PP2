@@ -1,0 +1,63 @@
+==164== Memcheck, a memory error detector
+==164== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==164== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==164== Command: /tmp/tmpmokdg2j6/student/zaj11PtrCStringVector/build//bin/unit_tests
+==164== 
+Running main() from /tmp/tmpmokdg2j6/student/zaj11PtrCStringVector/unitTests/lib/googletest/src/gtest_main.cc
+[==========] Running 20 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 20 tests from PtrCStringVectorTester
+[ RUN      ] PtrCStringVectorTester.defaultConstructor_sizeOfEmptyContainerIsZero
+[       OK ] PtrCStringVectorTester.defaultConstructor_sizeOfEmptyContainerIsZero (16 ms)
+[ RUN      ] PtrCStringVectorTester.pushBack_sizeOfContainerIncreaseAfterCallingPushBack
+[       OK ] PtrCStringVectorTester.pushBack_sizeOfContainerIncreaseAfterCallingPushBack (5 ms)
+[ RUN      ] PtrCStringVectorTester.arrayIndexingOperator_testsInTheSamePositionsAsPushed
+[       OK ] PtrCStringVectorTester.arrayIndexingOperator_testsInTheSamePositionsAsPushed (4 ms)
+[ RUN      ] PtrCStringVectorTester.arrayIndexingOperator_throwingExceptionWhenOutOfRange
+[       OK ] PtrCStringVectorTester.arrayIndexingOperator_throwingExceptionWhenOutOfRange (43 ms)
+[ RUN      ] PtrCStringVectorTester.copyConstructor_textsDeeplyCopied
+[       OK ] PtrCStringVectorTester.copyConstructor_textsDeeplyCopied (9 ms)
+[ RUN      ] PtrCStringVectorTester.assignmentOperator_copyingContainerDeeply
+[       OK ] PtrCStringVectorTester.assignmentOperator_copyingContainerDeeply (8 ms)
+[ RUN      ] PtrCStringVectorTester.assignmentOperator_assignmentCascadeAtOnceExpectingDeepCopyMultipleTimesEvenWithItselve
+[       OK ] PtrCStringVectorTester.assignmentOperator_assignmentCascadeAtOnceExpectingDeepCopyMultipleTimesEvenWithItselve (6 ms)
+[ RUN      ] PtrCStringVectorTester.assignmentOperator_movingTextFromAnotherContainer
+[       OK ] PtrCStringVectorTester.assignmentOperator_movingTextFromAnotherContainer (7 ms)
+[ RUN      ] PtrCStringVectorTester.addOperator_expectReturningContainerContainingAllElementsFromAddedContainers
+[       OK ] PtrCStringVectorTester.addOperator_expectReturningContainerContainingAllElementsFromAddedContainers (7 ms)
+[ RUN      ] PtrCStringVectorTester.bitAndOperator_expectReturningContainerContainingMergedTextsFromCorrespondingPositionsAddedContainers
+[       OK ] PtrCStringVectorTester.bitAndOperator_expectReturningContainerContainingMergedTextsFromCorrespondingPositionsAddedContainers (10 ms)
+[ RUN      ] PtrCStringVectorTester.antytest1
+[       OK ] PtrCStringVectorTester.antytest1 (484 ms)
+[ RUN      ] PtrCStringVectorTester.antytest2
+[       OK ] PtrCStringVectorTester.antytest2 (495 ms)
+[ RUN      ] PtrCStringVectorTester.antytest3
+[       OK ] PtrCStringVectorTester.antytest3 (1752 ms)
+[ RUN      ] PtrCStringVectorTester.antytest4
+[       OK ] PtrCStringVectorTester.antytest4 (147 ms)
+[ RUN      ] PtrCStringVectorTester.antytest5
+[       OK ] PtrCStringVectorTester.antytest5 (6 ms)
+[ RUN      ] PtrCStringVectorTester.antytest6
+[       OK ] PtrCStringVectorTester.antytest6 (18 ms)
+[ RUN      ] PtrCStringVectorTester.antytest7
+[       OK ] PtrCStringVectorTester.antytest7 (2218 ms)
+[ RUN      ] PtrCStringVectorTester.antytest8
+[       OK ] PtrCStringVectorTester.antytest8 (4325 ms)
+[ RUN      ] PtrCStringVectorTester.antytest9
+[       OK ] PtrCStringVectorTester.antytest9 (3527 ms)
+[ RUN      ] PtrCStringVectorTester.antytest10
+[       OK ] PtrCStringVectorTester.antytest10 (3496 ms)
+[----------] 20 tests from PtrCStringVectorTester (16638 ms total)
+
+[----------] Global test environment tear-down
+[==========] 20 tests from 1 test suite ran. (16693 ms total)
+[  PASSED  ] 20 tests.
+==164== 
+==164== HEAP SUMMARY:
+==164==     in use at exit: 0 bytes in 0 blocks
+==164==   total heap usage: 865,419 allocs, 865,419 frees, 601,312,918 bytes allocated
+==164== 
+==164== All heap blocks were freed -- no leaks are possible
+==164== 
+==164== For lists of detected and suppressed errors, rerun with: -s
+==164== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

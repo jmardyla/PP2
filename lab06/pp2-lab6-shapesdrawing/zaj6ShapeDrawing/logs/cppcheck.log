@@ -1,0 +1,12 @@
+/tmp/tmpcjddozbo/student/zaj6ShapeDrawing/rectangle.cpp:12:0: warning: The function 'x' is never used. [unusedFunction]
+    int Rectangle::x() const {
+^
+/tmp/tmpcjddozbo/student/zaj6ShapeDrawing/rectangle.cpp:16:0: warning: The function 'y' is never used. [unusedFunction]
+    int Rectangle::y() const {
+^
+/tmp/tmpcjddozbo/student/zaj6ShapeDrawing/rectangle.cpp:20:0: warning: The function 'xTo' is never used. [unusedFunction]
+    int Rectangle::xTo() const {
+^
+/tmp/tmpcjddozbo/student/zaj6ShapeDrawing/rectangle.cpp:23:0: warning: The function 'yTo' is never used. [unusedFunction]
+    int Rectangle::yTo() const {
+^

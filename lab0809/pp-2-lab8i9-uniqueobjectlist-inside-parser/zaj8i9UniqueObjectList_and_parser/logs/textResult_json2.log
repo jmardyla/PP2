@@ -1,0 +1,103 @@
+{
+  "tests": 6,
+  "failures": 1,
+  "disabled": 0,
+  "errors": 0,
+  "timestamp": "2023-05-22T14:17:13Z",
+  "time": "0.013s",
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "CommandsParserSystemTester",
+      "tests": 2,
+      "failures": 0,
+      "disabled": 0,
+      "errors": 0,
+      "timestamp": "2023-05-22T14:17:13Z",
+      "time": "0.004s",
+      "testsuite": [
+        {
+          "name": "executingOurProgramWithoutAnyInput_expectedNoOutput",
+          "file": "\/tmp\/tmp8sod9cts\/student\/zaj8i9UniqueObjectList_and_parser\/systemTests\/executableTests.cpp",
+          "line": 179,
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2023-05-22T14:17:13Z",
+          "time": "0.002s",
+          "classname": "CommandsParserSystemTester"
+        },
+        {
+          "name": "testInvalidCommand",
+          "file": "\/tmp\/tmp8sod9cts\/student\/zaj8i9UniqueObjectList_and_parser\/systemTests\/executableTests.cpp",
+          "line": 188,
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2023-05-22T14:17:13Z",
+          "time": "0.001s",
+          "classname": "CommandsParserSystemTester"
+        }
+      ]
+    },
+    {
+      "name": "CommandsParserSystemTester\/CommandsParserSystemTester",
+      "tests": 4,
+      "failures": 1,
+      "disabled": 0,
+      "errors": 0,
+      "timestamp": "2023-05-22T14:17:13Z",
+      "time": "0.008s",
+      "testsuite": [
+        {
+          "name": "testVariousScenariosUsingInputAndOutputFiles\/0",
+          "value_param": "\"sumStringObject\"",
+          "file": "\/tmp\/tmp8sod9cts\/student\/zaj8i9UniqueObjectList_and_parser\/systemTests\/executableTests.cpp",
+          "line": 202,
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2023-05-22T14:17:13Z",
+          "time": "0.002s",
+          "classname": "CommandsParserSystemTester\/CommandsParserSystemTester",
+          "failures": [
+            {
+              "failure": "\/tmp\/tmp8sod9cts\/student\/zaj8i9UniqueObjectList_and_parser\/systemTests\/executableTests.cpp:219\nExpected equality of these values:\n  expectedOutputFileLines[lineIndex]\n    Which is: \"StringObject(\\\"Kazdy test, ktory przechodzi, to wiecej punktow!\\\")\"\n  output.linesOfStdout_[lineIndex]\n    Which is: \"StringObject(\\\" wiecej punktow! test, ktory przechodzi, toKazdy\\\")\"\nindexOfLine=0, source file: \/tmp\/tmp8sod9cts\/student\/zaj8i9UniqueObjectList_and_parser\/systemTests\/inputOutputData\/sumStringObject.in.txt, expected output file: \/tmp\/tmp8sod9cts\/student\/zaj8i9UniqueObjectList_and_parser\/systemTests\/inputOutputData\/sumStringObject.out.txt",
+              "type": ""
+            }
+          ]
+        },
+        {
+          "name": "testVariousScenariosUsingInputAndOutputFiles\/1",
+          "value_param": "\"sumDoubleObject\"",
+          "file": "\/tmp\/tmp8sod9cts\/student\/zaj8i9UniqueObjectList_and_parser\/systemTests\/executableTests.cpp",
+          "line": 202,
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2023-05-22T14:17:13Z",
+          "time": "0.002s",
+          "classname": "CommandsParserSystemTester\/CommandsParserSystemTester"
+        },
+        {
+          "name": "testVariousScenariosUsingInputAndOutputFiles\/2",
+          "value_param": "\"mulDifferentTypes\"",
+          "file": "\/tmp\/tmp8sod9cts\/student\/zaj8i9UniqueObjectList_and_parser\/systemTests\/executableTests.cpp",
+          "line": 202,
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2023-05-22T14:17:13Z",
+          "time": "0.002s",
+          "classname": "CommandsParserSystemTester\/CommandsParserSystemTester"
+        },
+        {
+          "name": "testVariousScenariosUsingInputAndOutputFiles\/3",
+          "value_param": "\"getByIndexComplexObject\"",
+          "file": "\/tmp\/tmp8sod9cts\/student\/zaj8i9UniqueObjectList_and_parser\/systemTests\/executableTests.cpp",
+          "line": 202,
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2023-05-22T14:17:13Z",
+          "time": "0.002s",
+          "classname": "CommandsParserSystemTester\/CommandsParserSystemTester"
+        }
+      ]
+    }
+  ]
+}

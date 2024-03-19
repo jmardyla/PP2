@@ -1,0 +1,24 @@
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp:20:5: warning: Class 'SimpleString' does not have a operator= which is recommended since it has dynamic memory/resource allocation(s). [noOperatorEq]
+    data_ = new char[capacity_];
+    ^
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp:105:13: warning: The scope of the variable 'comparedValue' can be reduced. [variableScope]
+        int comparedValue;
+            ^
+/tmp/tmpvq9liv77/student/lab4SimpleString/main.cpp:59:0: warning: The function 'validateStudentsInfo' is never used. [unusedFunction]
+void validateStudentsInfo()
+^
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp:42:0: warning: The function 'assign' is never used. [unusedFunction]
+void SimpleString::assign(const char *new_text) {
+^
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp:50:0: warning: The function 'equal_to' is never used. [unusedFunction]
+bool SimpleString::equal_to(const SimpleString &secondSimpleString, bool case_sensitive) const {
+^
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp:72:0: warning: The function 'append' is never used. [unusedFunction]
+void SimpleString::append(const SimpleString &secondSimpleString) {
+^
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp:84:0: warning: The function 'substr' is never used. [unusedFunction]
+SimpleString SimpleString::substr(std::size_t pos, std::size_t count) const {
+^
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp:100:0: warning: The function 'compare' is never used. [unusedFunction]
+int SimpleString::compare(const SimpleString &secondSimpleString, bool case_sensitive) const {
+^

@@ -1,0 +1,21 @@
+[ 14%] Building CXX object tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
+[ 28%] Linking CXX static library ../../../lib/libgtest.a
+[ 28%] Built target gtest
+[ 42%] Building CXX object tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o
+[ 57%] Linking CXX static library ../../../lib/libgtest_main.a
+[ 57%] Built target gtest_main
+[ 71%] Building CXX object tests/CMakeFiles/tests.dir/__/simpleString.cpp.o
+[ 85%] Building CXX object tests/CMakeFiles/tests.dir/simpleStringTests.cpp.o
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp:10:6: warning: #warning is a GCC extension
+   10 |     #warning "Klasa jest do zaimplementowania. Instrukcja w pliku naglowkowym"
+      |      ^~~~~~~
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp:10:6: warning: #warning "Klasa jest do zaimplementowania. Instrukcja w pliku naglowkowym" [-Wcpp]
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp: In member function ‘bool SimpleString::equal_to(const SimpleString&, bool) const’:
+/tmp/tmpvq9liv77/student/lab4SimpleString/simpleString.cpp:64:14: warning: comparison of integer expressions of different signedness: ‘int’ and ‘const size_t’ {aka ‘const long unsigned int’} [-Wsign-compare]
+   64 |         if (i==this->size_ && this->size_==secondSimpleString.size_) {
+      |             ~^~~~~~~~~~~~~
+/tmp/tmpvq9liv77/student/lab4SimpleString/tests/simpleStringTests.cpp:30:6: warning: the program should also define ‘void operator delete [](void*, std::size_t)’ [-Wsized-deallocation]
+   30 | void operator delete[](void* memory) noexcept
+      |      ^~~~~~~~
+[100%] Linking CXX executable ../bin/tests
+[100%] Built target tests

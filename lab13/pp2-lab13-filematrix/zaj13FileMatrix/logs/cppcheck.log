@@ -1,0 +1,129 @@
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int8_t , unsigned long >::rows_' is not assigned a value in 'FileMatrix < int8_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int8_t , unsigned long >::columns_' is not assigned a value in 'FileMatrix < int8_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int8_t , unsigned long >::currentRowNumber_' is not assigned a value in 'FileMatrix < int8_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int16_t , unsigned long >::rows_' is not assigned a value in 'FileMatrix < int16_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int16_t , unsigned long >::columns_' is not assigned a value in 'FileMatrix < int16_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int16_t , unsigned long >::currentRowNumber_' is not assigned a value in 'FileMatrix < int16_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int32_t , unsigned long >::rows_' is not assigned a value in 'FileMatrix < int32_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int32_t , unsigned long >::columns_' is not assigned a value in 'FileMatrix < int32_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int32_t , unsigned long >::currentRowNumber_' is not assigned a value in 'FileMatrix < int32_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int64_t , unsigned long >::rows_' is not assigned a value in 'FileMatrix < int64_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int64_t , unsigned long >::columns_' is not assigned a value in 'FileMatrix < int64_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < int64_t , unsigned long >::currentRowNumber_' is not assigned a value in 'FileMatrix < int64_t , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < double , unsigned long >::rows_' is not assigned a value in 'FileMatrix < double , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < double , unsigned long >::columns_' is not assigned a value in 'FileMatrix < double , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < double , unsigned long >::currentRowNumber_' is not assigned a value in 'FileMatrix < double , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < float , unsigned long >::rows_' is not assigned a value in 'FileMatrix < float , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < float , unsigned long >::columns_' is not assigned a value in 'FileMatrix < float , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < float , unsigned long >::currentRowNumber_' is not assigned a value in 'FileMatrix < float , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < unsigned long , unsigned long >::rows_' is not assigned a value in 'FileMatrix < unsigned long , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < unsigned long , unsigned long >::columns_' is not assigned a value in 'FileMatrix < unsigned long , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < unsigned long , unsigned long >::currentRowNumber_' is not assigned a value in 'FileMatrix < unsigned long , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < char , unsigned long >::rows_' is not assigned a value in 'FileMatrix < char , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < char , unsigned long >::columns_' is not assigned a value in 'FileMatrix < char , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < char , unsigned long >::currentRowNumber_' is not assigned a value in 'FileMatrix < char , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < unsigned int , unsigned long >::rows_' is not assigned a value in 'FileMatrix < unsigned int , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < unsigned int , unsigned long >::columns_' is not assigned a value in 'FileMatrix < unsigned int , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < unsigned int , unsigned long >::currentRowNumber_' is not assigned a value in 'FileMatrix < unsigned int , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < unsigned long long , unsigned long >::rows_' is not assigned a value in 'FileMatrix < unsigned long long , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < unsigned long long , unsigned long >::columns_' is not assigned a value in 'FileMatrix < unsigned long long , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:167:17: warning: Member variable 'FileMatrix < unsigned long long , unsigned long >::currentRowNumber_' is not assigned a value in 'FileMatrix < unsigned long long , unsigned long >::operator='. [operatorEqVarError]
+    FileMatrix& operator=(FileMatrix&& sourceMatrix){
+                ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:87:9: warning: Variable 'filename_' is assigned in constructor body. Consider performing initialization in initialization list. [useInitializationList]
+        filename_ = sourceMatrix.filename_.substr(0, sourceMatrix.filename_.find('.')) + "_copy" + extention();
+        ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:107:9: warning: Variable 'filename_' is assigned in constructor body. Consider performing initialization in initialization list. [useInitializationList]
+        filename_ = sourceMatrix.filename_.substr(0, sourceMatrix.filename_.find('.')) + "_move" + extention();
+        ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix < int8_t , unsigned long >' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix < int16_t , unsigned long >' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix < int32_t , unsigned long >' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix < int64_t , unsigned long >' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix < double , unsigned long >' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix < float , unsigned long >' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix < unsigned long , unsigned long >' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix < char , unsigned long >' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix < unsigned int , unsigned long >' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix < unsigned long long , unsigned long >' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^
+/tmp/tmpfv1r2iav/student/zaj13FileMatrix/FileMatrix.hpp:59:5: warning: Class 'FileMatrix' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    FileMatrix(const std::string& filename): filename_(filename)
+    ^

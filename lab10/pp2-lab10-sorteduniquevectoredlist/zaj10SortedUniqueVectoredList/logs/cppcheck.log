@@ -1,0 +1,18 @@
+/tmp/tmparw3fc7q/student/zaj10SortedUniqueVectoredList/SortedUniqueVectoredList.cpp:149:13: warning: The scope of the variable 'temp' can be reduced. [variableScope]
+    Bucket *temp;
+            ^
+/tmp/tmparw3fc7q/student/zaj10SortedUniqueVectoredList/SortedUniqueVectoredList.cpp:225:10: warning: The scope of the variable 'isRepeated' can be reduced. [variableScope]
+    bool isRepeated = false;
+         ^
+/tmp/tmparw3fc7q/student/zaj10SortedUniqueVectoredList/SortedUniqueVectoredList.cpp:213:29: warning: Consider using std::any_of algorithm instead of a raw loop. [useStlAlgorithm]
+            if (str==value) {
+                            ^
+/tmp/tmparw3fc7q/student/zaj10SortedUniqueVectoredList/SortedUniqueVectoredList.cpp:225:21: warning: Variable 'isRepeated' is assigned a value that is never used. [unreadVariable]
+    bool isRepeated = false;
+                    ^
+/tmp/tmparw3fc7q/student/zaj10SortedUniqueVectoredList/SortedUniqueVectoredList.cpp:122:0: warning: The function 'erase' is never used. [unusedFunction]
+void SortedUniqueVectoredList::erase(const string &value)
+^
+/tmp/tmparw3fc7q/student/zaj10SortedUniqueVectoredList/SortedUniqueVectoredList.cpp:138:0: warning: The function 'allocate_new_bucket' is never used. [unusedFunction]
+void SortedUniqueVectoredList::allocate_new_bucket()
+^
